@@ -1,2 +1,2 @@
 # Currency_Converter-
-Script for different currency 💵 converter
+Script for different currency 💵 converter.
