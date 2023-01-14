@@ -1,2 +1,2 @@
 # Currency_Converter
-Script for different currency 💵 converter
+A python script to convert difference currency into any desire currency
